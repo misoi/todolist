@@ -44,7 +44,7 @@ command-not-found==0.3
 configobj==4.7.2
 coverage==4.0a1
 crypto==1.4.1
-cryptography==1.4
+cryptography==3.2
 cssselect==0.9.1
 cssutils==0.9.10
 debtagshw==0.1
