@@ -18,7 +18,7 @@ Naked==0.1.31
 PAM==0.4.2
 Pillow==2.3.0
 PyYAML==3.11
-Pygments==1.6
+Pygments==2.7.4
 Routes==2.0
 SQLAlchemy==0.9.4
 SecretStorage==2.0.0
